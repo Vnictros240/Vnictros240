@@ -6,7 +6,7 @@ I'm a security professional passionate about building, automating, and securing 
 
 ### 🚀 My Strategic Focus
 
-*   **Learning Paths:** Designing my learning around the goals of achieving the SANS Lifetime Achievement Award and becoming a HackerOne Millionaire.
+*   **Learning Paths:** Designing my learning around the goals of achieving the SANS Lifetime Achievement Award and becoming a HackerOne Bug Bounty Hunter.
 *   **Public Portfolio:** Actively building a public portfolio through GitHub projects, blog posts, and YouTube videos.
 *   **Coaching & Mentorship:** Creating a coaching system inspired by strategic thinkers.
 *   **AI-Driven Workflows:** Exploring and leveraging AI to enhance my workflows in job hunting, reconnaissance, documentation, and research.
