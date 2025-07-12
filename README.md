@@ -1,71 +1,36 @@
-<h1>Hi, I'm Victor!! 👋
-<br/><a href="https://github.com/Vnictros240/">Programmer</a>, <a href="https://www.linkedin.com/in/victor-sullivan/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/user/vsulli/videos">YouTuber</a></h1>
+# Hi there, I'm Victor 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm a security professional passionate about building, automating, and securing systems. My focus is on creating practical solutions and sharing knowledge through my projects and writing.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://www)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](wwww)<b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](www)
-  - [JWipe (Disk Wiping Utility)](wwww)
-  - [Active Directory Bulk User Creation](wwww)
-  - [FIM (File Integrity Monitor)](wwww)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](www)
-  - [Ransomware Proof of Concept (Decrypter)](www)
-  - [Keylogger with Email Capability](www)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](wwww)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+### 🚀 My Strategic Focus
 
-- [Link title](https://to-web-site)
+*   **Learning Paths:** Designing my learning around the goals of achieving the SANS Lifetime Achievement Award and becoming a HackerOne Millionaire.
+*   **Public Portfolio:** Actively building a public portfolio through GitHub projects, blog posts, and YouTube videos.
+*   **Coaching & Mentorship:** Creating a coaching system inspired by strategic thinkers.
+*   **AI-Driven Workflows:** Exploring and leveraging AI to enhance my workflows in job hunting, reconnaissance, documentation, and research.
 
+### 🛠️ My Current Projects & Skills
 
+*   **Core Skills:** Blue Team defense, SIEM administration, and continuous learning.
+*   **Development:** Building Python and Ansible tools for network automation, reporting, and configuration.
+*   **Homelab:** Managing a home Ubuntu server for SOC tools, monitoring, and automation projects.
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="Victor Sullivan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/user/vsulli/videos)
-[<img align="left" alt="Victor Sullivan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/VictorSulliv)
-[<img align="left" alt="Victor Sullivan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Victor Sullivan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 📂 My GitHub Projects
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+Here are some of the projects I'm currently working on:
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*   [**SIEM-Forge**](https://github.com/Vnictros240/SIEM-Forge): A toolkit to accelerate SIEM migrations.
+*   [**VigilancePack**](https://github.com/Vnictros240/VigilancePack): An advanced threat detection content pack for SentinelOne.
+*   [**NexusGuard**](https://github.com/Vnictros240/NexusGuard): A framework for integrating a diverse security monitoring ecosystem.
+*   [**Project-Odyssey**](https://github.com/Vnictros240/Project-Odyssey): A dashboard for managing global team migrations.
+*   [**Aegis-Report**](https://github.com/Vnictros240/Aegis-Report): A framework for executive reporting and SOC metrics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤳 Connect with me:
 
-
-
-
-<!--
-**Vnictros240/Vnictros240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [X/Twitter](https://x.com/VictorSulliv)
