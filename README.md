@@ -47,8 +47,8 @@ I’m currently building a public body of work in:
 ---
 
 ## 📚 Learning Platforms  
-- **TryHackMe:** [Your THM Profile Link]  
-- **Hack The Box:** *(if you want to add)*  
+- **TryHackMe**
+- **Hack The Box** 
 - **PortSwigger Academy**  
 - **PentesterLab**  
 - **HackerOne (Research Practice)**  
@@ -56,7 +56,7 @@ I’m currently building a public body of work in:
 ---
 
 ## 📌 Featured Projects  
-*(Update these as you build them — placeholders included)*
+⚠️ *(UNDER CONSTRUCTION - These are placeholders for my projects.)* ⚠️ 
 
 ### 🔸 **Web Application PenTest Notes**
 A living collection of recon techniques, exploit patterns, wordlists, and red team playbook entries.  
@@ -91,14 +91,14 @@ I combine practical network expertise with a growing offensive skillset, continu
 ## 🌐 Connect With Me
 
 - **LinkedIn:** (Victor Sullivan)[https://www.linkedin.com/in/victor-sullivan/]
-- **GitHub:** https://github.com/YourUsername  
-- **Portfolio:** https://VectorIPSec.com  
-- **TryHackMe:** [Your THM Profile]  
-- **YouTube / Blog (optional):** Add when ready  
+- **GitHub:** https://github.com/Vnictros240
+- **TryHackMe:** https://tryhackme.com/p/victo24far
+- **YouTube / Blog:**  Coming Soon
 
 ---
 
 ## 🌱 About Me
+Join a video call using Calendly: https://calendly.com/vssullivan/coffee-and-chat
 - I believe in **teaching what I’m learning**, sharing notes, building tools, and helping others grow.  
 - I’m a systems thinker—focused on **structured methodologies**, **repeatability**, and **signal extraction**.  
 - I’m a dad, builder, and lifelong learner working to create a strong body of cybersecurity work.
