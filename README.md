@@ -2,7 +2,7 @@
 
 **Network Engineer → Cybersecurity Practitioner → Red Team & Offensive Security Learner**
 
-I’m a security-minded Network Engineer with 10+ years of experience designing and supporting complex Cisco-based architectures across manufacturing, healthcare, and enterprise environments.  
+I’m a security-minded Network Engineer with 14+ years of experience designing and supporting complex Cisco-based architectures across manufacturing, healthcare, and enterprise environments.  
 
 Today, I’m focused on advancing into **Offensive Security**, **Red Team tradecraft**, and **applied security engineering**—building tools, writing labs, documenting research, and sharpening adversarial thinking.
 
@@ -90,7 +90,7 @@ I combine practical network expertise with a growing offensive skillset, continu
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** (Victor Sullivan)[https://www.linkedin.com/in/victor-sullivan/]
 - **GitHub:** https://github.com/YourUsername  
 - **Portfolio:** https://VectorIPSec.com  
 - **TryHackMe:** [Your THM Profile]  
